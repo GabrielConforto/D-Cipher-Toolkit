@@ -1,6 +1,8 @@
 import os
 import base64
 
+print("Tool made by: https://github.com/GabrielConforto")
+print("-------------------------------------------------")
 file = input("Which .txt do you wish to decrypt? ")
 
 cipher = int(input("Which cipher is the string in?\n"
